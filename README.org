@@ -1,0 +1,168 @@
+* [[https://en.wiktionary.org/wiki/%25E9%2581%2593][道]] :: A Path to Informatics
+** So You Want To Be an /[[https://sbmi.uth.edu/blog/jul-15/what-does-it-take-to-be-an-informatician.htm][Informatician]]/ 
+
+If you are interested in mathematics, computer science and
+programming, would love to deal with questions of how to structure,
+analyse, transform, and transfer information, you are in luck ---
+opportunities abound in their wide variety and format. But where do
+you start, and how can you change yourself and your surroundings to
+make sure that you proliferate sustainably and consistently?
+
+This document is an attempt to collect and organise no-nonsense advice
+on how to be smart about your development as a researcher,
+technologist or entrepreneur, with an intention of inspiring you to
+single out and realise actionable steps towards the common good.
+
+** Roadmap
+
+
+Success is a cumulative, oftentimes chaotic process. Taking notice of
+what variables are in our control, we can /[[http://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/][shape]]/ our environment by
+manipulating /the three C's/:
+
+  - reducing the transaction costs of engagement in productive activities
+  - erecting the transaction costs to counter-productive activities
+  - minimising the opportunity cost, by asking for help and learning from the experts.
+
+ In this way, the path of least resistance /is/ a productive path.
+
+*** Build a portfolio
+
+A resume, on its own, says little to nothing about your programming or
+research abilities. Instead, how you work and what results you get can
+be shown by your /portfolio/:
+
+- set up a personal blog with per-project posts and browsable code
+- follow, improve and document contributions to [[https://fsfe.org/freesoftware/basics/comparison.en.html][FLOSS]] software
+
+  Delving into complex projects, reading other people's code, and
+  internalizing beautiful ideas which you are able to scrape off or
+  stumble upon as you go along allow to build a library of /[[https://www.coursera.org/learn/learning-how-to-learn/lecture/LurUJ/what-is-a-chunk][chunks]]/
+  available for reuse in your own projects. Given that there is a wide
+  variety of FLOSS software published around, the number of projects
+  to dive into is not in shortage.
+
+  For example, Julian Squires [[http://www.cipht.net/2017/10/05/why-read-code.html#fn.8][recommends]] to savour [[https://git.postgresql.org/gitweb/?p=postgresql.git][postgres]] and
+  [[https://www.sqlite.org/cgi/src/tree?ci=trunk][sqlite]].
+
+  If you want to get a taste of modern tooling with the [[https://en.wikipedia.org/wiki/KISS_principle][KISS]] flavour
+  written in a relatively young language (specifically, [[https://www.rust-lang.org/][Rust]]), you
+  might want to look at the following:
+
+  - [[https://github.com/sharkdp/fd][fd]] :: a simple, fast and user-friendly alternative to ~find~
+  - [[https://github.com/BurntSushi/ripgrep][ripgrep]] :: a line oriented search tool that combines the usability
+       of the Silver Searcher with the raw speed of GNU ~grep~
+  - [[https://github.com/BurntSushi/xsv][xsv]] :: a fast CSV toolkit
+  
+*** Master technical communication
+
+Much of the work of a researcher, programmer or entrepreneur lies not
+only in the research or creation of a product /per se/, but in
+communicating their ideas to a wider audience. Persuasion leads to
+leverage. 
+
+This is especially true in software design. As of now, the vast
+majority of computer programmes consist of text written /and/ read by
+humans. Clear documentation, vivid examples and self-explaining code
+are thus paramount to headstart the community adoption.
+
+To hone your skills, you might want to do the following:
+
+- give as many [[http://njn.valgrind.org/good-talk.html][good]] [[http://matt.might.net/articles/academic-presentation-tips/][talks]] as possible to test and strengthen your
+  knowledge and understanding
+- adopt [[http://matt.might.net/articles/how-to-email/][efficient networking practices]]
+  
+*** [[Https://en.wikipedia.org/wiki/Grok][Grok]] the core of mathematics, computer science and programming
+
+/Grokking/ the core involves not only the intimate comprehension of
+the material, but also its ultimate /ownership/. A trove of elegant
+ideas might provide a basis for simple and graceful solutions you
+would otherwise find only through arduous process of trial and error. 
+
+The following curricula can start you off:
+
+  - [[https://intelligence.org/research-guide/][MIRI Research Guide]]
+  - [[https://teachyourselfcs.com/]["Teach Yourself Computer Science" Study Guide]]
+  - [[http://matt.might.net/articles/what-cs-majors-should-know/][Matt Might's Recommendations]]
+  - [[https://techdevguide.withgoogle.com/][Google Tech Dev Guide]]
+
+*** Look out for a mentor
+
+Account for the risk of being led astray while planning out your path
+of self-learning. Deliberate practice /and/ immediate feedback [[http://europepmc.org/abstract/med/18778378][matter]]
+for the maximum gains in expertise and problem-solving abilities.
+
+- ask professors about their research to get first impression about
+  the current frontiers, and, if the topic is of interest to you, to
+  know what keywords to use in your deeper dive later
+- go to office hours for an opportunity of a one-to-one mentorship
+
+*** Grow the community
+
+One of the ways to keep yourself in check is to teach others what you
+think you know and understand. If you succeed, good for you and good
+for them. You may receive valuable comments on your weak points to
+make you better, and might obtain something very important -- the
+community.
+
+The community, made comfortable for the participants and by the
+participants, is a hot-bed of unexpected confluence of ideas, and can
+make your common struggles fun and rewarding.
+
+You might try these ideas:
+
+  - [[http://paperswelove.org/chapter/][join]] or [[https://github.com/papers-we-love/organizers][start]] the [[http://paperswelove.org/][Papers We Love]] chapter in your location
+  - learn and help others to learn more efficiently in a scalable
+    manner, drawing inspiration from the works of [[https://jvns.ca/][Julia Evans]] and
+    community projects like [[https://github.com/haskell-learning-group/haskell-learning-group][Haskell Learning Group]]
+
+*** Get healthy
+
+Sedentary lifestyle [[https://doi.org/10.2337/db07-0882][kills]]. Irregular diet, little to no sleep, and
+lack of exercise aggravate your productivity and [[https://www.ncbi.nlm.nih.gov/pubmed/23795769][diminish the returns
+per effort ratio]].
+
+** Internships
+
+To train the ability of team-working and producing quality code in a
+complex system under limited time constraints, a demanding internship
+is a way to go.
+
+[[http://alexeymk.com/a-brief-guide-to-tech-internships/][Get ready and apply]].
+
+*** Job Platforms
+
+- [[https://angel.co/][AngelList Startup Jobs]]
+
+*** Companies
+
+- [[http://www.amazon.jobs/team/university-internships][Amazon University Internships]]
+- [[https://careers.microsoft.com/students/explore][Microsoft Explore]]
+- [[https://careers.mozilla.org/listings/?position_type=Intern][Mozilla Careers]]
+- [[https://careers.twitter.com/en/university.html][Twitter for Students]]
+- [[https://developers.google.com/open-source/gsoc/][Google Summer of Code]]
+- [[https://github.com/about/careers#internships][Github Internships]]
+- [[https://www.bloomberg.com/careers/internships/][Bloomberg Internships]]
+- [[https://www.digitalocean.com/company/careers/][Digital Ocean Careers]]
+- [[https://www.facebook.com/careers/university/fbueng][Facebook University for Engineering]]
+
+*** Organisations
+
+- [[https://www.khanacademy.org/careers/interns][Khan Academy Internships]]
+- [[https://www.outreachy.org/][Outreachy Program]]
+
+*** Interview Preparation
+
+- Gayle Laakmann McDowell. *Cracking The Coding Interview*
+  + [[https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview][Tutorial and More Problems]] 
+- [[https://leetcode.com/problemset/algorithms/][LeetCode Section on Algorithms]]
+- [[https://www.pramp.com][Pramp]]
+
+** Further Resources
+
+1. Matt Might. *College tips, tricks and hacks*. /[[http://matt.might.net/articles/college-tips/][Matt Might's
+   Blog]]/. Retrieved on October 9, 2017.
+2. Joel Spolsky. *Advice for Computer Science College Students*.
+   /[[https://www.joelonsoftware.com/2005/01/02/advice-for-computer-science-college-students/][Joel On Software]]/. Retrieved on October 9, 2017.
+3. Itamar Turner-Trauring. *Technical skills alone won’t make you
+   productive*. /[[https://codewithoutrules.com/2017/10/04/technical-skills-productive/][Code Without Rules]]/. Retrieved on October 9, 2017.
